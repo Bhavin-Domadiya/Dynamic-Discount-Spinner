@@ -1,6 +1,8 @@
 # Dynamic-Discount-Spinner
 This dynamic discount spinner is just like the Shopify email popup game that offers store visitors the chance to spin the wheel and get a discount.
 
+<img src="https://user-images.githubusercontent.com/20565907/220866323-27e9822e-fe4a-4ab6-81d0-0a84433eb115.png">
+
 # 👀 Feature<br>
 
 1. Boost your email  lead generation with dynamic discount spinner fully customizable pop-up forms.<br>
